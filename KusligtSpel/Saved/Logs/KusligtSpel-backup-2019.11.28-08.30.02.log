@@ -1,0 +1,1489 @@
+﻿Log file open, 11/25/19 13:17:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: KusligtSpel
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.084652
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-7440HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Engine.ini]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Engine.ini]
+[2019.11.25-12.17.48:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Engine.ini]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Engine.ini]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.25-12.17.48:877][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.25-12.17.48:878][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.25-12.17.48:878][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.25-12.17.48:878][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.25-12.17.48:878][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.25-12.17.48:878][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.25-12.17.48:878][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.25-12.17.48:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Engine.ini]
+[2019.11.25-12.17.48:878][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Engine.ini]
+[2019.11.25-12.17.48:880][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.25-12.17.48:881][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.25-12.17.48:882][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.25-12.17.48:882][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.25-12.17.48:882][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.25-12.17.48:884][  0]LogHAL: Display: Platform has ~ 16 GB [16776163328 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.25-12.17.48:884][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.25-12.17.48:885][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.25-12.17.48:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.25-12.17.48:886][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.25-12.17.48:886][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.25-12.17.48:887][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.25-12.17.48:887][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Config/Windows/Engine.ini]
+[2019.11.25-12.17.48:887][  0]LogInit: Computer: DESKTOP-0P8LSEM
+[2019.11.25-12.17.48:887][  0]LogInit: User: Hugo
+[2019.11.25-12.17.48:887][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.25-12.17.48:887][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2019.11.25-12.17.48:887][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2019.11.25-12.17.48:887][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.25-12.17.48:887][  0]LogMemory: Process Physical Memory: 98.84 MB used, 98.84 MB peak
+[2019.11.25-12.17.48:887][  0]LogMemory: Process Virtual Memory: 98.16 MB used, 98.16 MB peak
+[2019.11.25-12.17.48:887][  0]LogMemory: Physical Memory: 6607.26 MB used,  9391.74 MB free, 15999.00 MB total
+[2019.11.25-12.17.48:887][  0]LogMemory: Virtual Memory: 4670.48 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.11.25-12.17.48:891][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.25-12.17.48:915][  0]LogInit: Using OS detected language (sv-SE).
+[2019.11.25-12.17.48:915][  0]LogInit: Using OS detected locale (sv-SE).
+[2019.11.25-12.17.48:915][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2019.11.25-12.17.49:122][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.25-12.17.49:156][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.25-12.17.49:156][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.25-12.17.49:343][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.25-12.17.49:343][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.25-12.17.49:389][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2019.11.25-12.17.49:389][  0]LogD3D11RHI:       2019/0/7999 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.25-12.17.49:400][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.25-12.17.49:400][  0]LogD3D11RHI:       128/0/7999 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.25-12.17.49:403][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.25-12.17.49:403][  0]LogD3D11RHI:       0/0/7999 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.25-12.17.49:403][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.25-12.17.49:431][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.25-12.17.49:431][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2019.11.25-12.17.49:431][  0]LogWindows: EnumDisplayDevices:
+[2019.11.25-12.17.49:431][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.11.25-12.17.49:431][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.25-12.17.49:432][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.25-12.17.49:432][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.25-12.17.49:432][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2019.11.25-12.17.49:432][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.25-12.17.49:432][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.25-12.17.49:432][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2019.11.25-12.17.49:464][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.25-12.17.49:475][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.25-12.17.49:809][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.25-12.17.49:818][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.25-12.17.49:826][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.25-12.17.49:835][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.25-12.17.49:844][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.25-12.17.49:853][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.25-12.17.49:862][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.25-12.17.49:871][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.25-12.17.49:875][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.25-12.17.49:908][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.25-12.17.49:908][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.25-12.17.49:908][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.25-12.17.49:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.25-12.17.49:910][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.25-12.17.49:928][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.25-12.17.49:928][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.25-12.17.49:943][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.25-12.17.49:943][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.25-12.17.49:950][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.25-12.17.49:957][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.25-12.17.49:965][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.25-12.17.49:973][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.25-12.17.49:996][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.25-12.17.49:996][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.25-12.17.49:996][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.25-12.17.50:007][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.25-12.17.50:064][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Intermediate/Shaders/WorkingDirectory/8800/).
+[2019.11.25-12.17.50:065][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hugo/AppData/Local/Temp/UnrealShaderWorkingDir/A67BEB2C41279FDC03FFBDAD2034CBA5/'.
+[2019.11.25-12.17.50:067][  0]LogXGEController: Cleaning working directory: C:/Users/Hugo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.25-12.17.50:067][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.25-12.17.50:067][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.25-12.17.50:067][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.25-12.17.50:732][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.25-12.17.50:786][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Hugo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.25-12.17.50:786][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hugo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.25-12.17.50:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.25-12.17.50:786][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.25-12.17.50:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.25-12.17.50:786][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.25-12.17.50:799][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.25-12.17.50:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.25-12.17.50:799][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.25-12.17.50:800][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.25-12.17.50:800][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.25-12.17.50:800][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.25-12.17.50:822][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.25-12.17.50:825][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.25-12.17.50:825][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.25-12.17.50:883][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.11.25-12.17.51:159][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.25-12.17.51:314][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.25-12.17.51:314][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.25-12.17.51:314][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.25-12.17.51:314][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.25-12.17.51:314][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.25-12.17.51:324][  0]LogNetVersion: KusligtSpel 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3806890738)
+[2019.11.25-12.17.51:770][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.053112 seconds
+[2019.11.25-12.17.51:779][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.25-12.17.51:779][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.25-12.17.51:779][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.25-12.17.52:695][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.25-12.17.52:698][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.25-12.17.52:760][  0]SourceControl: Source control is disabled
+[2019.11.25-12.17.52:760][  0]SourceControl: Source control is disabled
+[2019.11.25-12.17.52:762][  0]SourceControl: Source control is disabled
+[2019.11.25-12.17.52:764][  0]SourceControl: Source control is disabled
+[2019.11.25-12.17.52:864][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.25-12.17.53:053][  0]LogOcInput: OculusInput pre-init called
+[2019.11.25-12.17.53:059][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.25-12.17.53:059][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.25-12.17.53:136][  0]LogEngine: Initializing Engine...
+[2019.11.25-12.17.53:137][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.25-12.17.53:138][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.25-12.17.53:393][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.25-12.17.53:411][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.25-12.17.53:440][  0]LogInit: XAudio2 using 'Hörlurar (MID ANC Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.25-12.17.53:455][  0]LogInit: FAudioDevice initialized.
+[2019.11.25-12.17.53:455][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.25-12.17.53:511][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/Hugo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.25-12.17.53:522][  0]LogInit: Texture streaming: Enabled
+[2019.11.25-12.17.53:551][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.25-12.17.53:552][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={168D45FA-4955-4EE8-3471-9199C17B7515}
+[2019.11.25-12.17.53:552][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.25-12.17.53:553][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.25-12.17.53:607][  0]LogInit: Transaction tracking system initialized
+[2019.11.25-12.17.53:648][  0]BlueprintLog: New page: Editor Load
+[2019.11.25-12.17.53:744][  0]LocalizationService: Localization service is disabled
+[2019.11.25-12.17.54:001][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/' took 0.00s
+[2019.11.25-12.17.54:001][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.25-12.17.54:002][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.25-12.17.54:199][  0]SourceControl: Source control is disabled
+[2019.11.25-12.17.54:199][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-12.17.54:199][  0]LightingResults: New page: Lighting Build
+[2019.11.25-12.17.54:204][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.17.54:204][  0]MapCheck: New page: Map Check
+[2019.11.25-12.17.54:204][  0]LightingResults: New page: Lighting Build
+[2019.11.25-12.17.54:232][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.25-12.17.54:523][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.25-12.17.54:541][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-12.17.54:571][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.11.25-12.17.54:571][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-12.17.54:571][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,144ms to complete.
+[2019.11.25-12.17.54:571][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.372
+[2019.11.25-12.17.54:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-12.17.54:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-12.17.54:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-12.17.54:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-12.17.54:707][  0]LogCollectionManager: Loaded 0 collections in 0.002403 seconds
+[2019.11.25-12.17.54:714][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Collections/' took 0.00s
+[2019.11.25-12.17.54:714][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Developers/Hugo/Collections/' took 0.00s
+[2019.11.25-12.17.54:714][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Collections/' took 0.00s
+[2019.11.25-12.17.54:714][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.25-12.17.54:723][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2863 classes and 680 folders.
+[2019.11.25-12.17.54:730][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.25-12.17.54:772][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.25-12.17.54:778][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.25-12.17.54:869][  0]LogSlate: Took 0.000607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.25-12.17.54:871][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.25-12.17.54:875][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.25-12.17.54:942][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.25-12.17.55:034][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.25-12.17.55:035][  0]LogLoad: (Engine Initialization) Total time: 7.38 seconds
+[2019.11.25-12.17.55:035][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.25-12.17.55:055][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.25-12.17.55:095][  0]LogAssetRegistry: Asset discovery search completed in 4.2125 seconds
+[2019.11.25-12.17.55:099][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.11.25-12.17.55:099][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.11.25-12.17.55:100][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.25-12.17.55:123][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.25-12.18.55:055][391]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={BCD8EB7E-4E2A-8683-33F9-26AF2319EE12}
+[2019.11.25-12.18.55:056][391]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8B798760-497F-FDE6-EEA3-C0AF2DFABAE6}
+[2019.11.25-12.18.55:056][391]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={168D45FA-4955-4EE8-3471-9199C17B7515}
+[2019.11.25-12.19.02:690][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-12.23.25:122][849]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.25-12.23.25:122][849]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Developers/Hugo/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.25-12.23.25:122][849]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.25-12.24.15:415][916]LogTexture: Display: Building textures: T_CharM_Base_M (AutoDXT, 1024X1024)
+[2019.11.25-12.24.15:416][916]LogTexture: Display: Building textures: T_CharM_Base_D (DXT1, 1024X1024)
+[2019.11.25-12.24.15:946][916]LogTexture: Display: Building textures: T_CharM_Base_N (BC5, 1024X1024)
+[2019.11.25-12.24.15:946][916]LogMaterial: Display: Missing cached shader map for material M_CharM_Base, compiling. 
+[2019.11.25-12.24.16:017][916]LogSkeletalMesh: Building Skeletal Mesh sk_CharM_Base...
+[2019.11.25-12.24.16:021][916]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-12.24.16:021][916]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-12.24.16:021][916]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-12.24.16:021][916]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base
+[2019.11.25-12.24.16:030][916]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.25-12.24.16:041][916]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base
+[2019.11.25-12.24.16:055][916]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.25-12.24.16:295][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-12.24.16:304][916]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.11.25-12.24.16:714][916]LogSlate: Took 0.006459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.25-12.24.16:736][916]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2019.11.25-12.24.18:541][916]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.11.25-12.24.18:571][916]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.11.25-12.24.19:696][916]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.11.25-12.24.19:808][916]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.25-12.24.20:645][916]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.25-12.24.21:077][916]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.25-12.24.21:124][916]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.11.25-12.25.01:716][621]LogSlate: Window 'sk_CharM_Base' being destroyed
+[2019.11.25-12.25.01:719][621]LogSlate: Window 'sk_CharM_Base' being destroyed
+[2019.11.25-12.25.01:720][621]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.25.14:183][ 15]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Cardboard...
+[2019.11.25-12.25.14:187][ 15]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+[2019.11.25-12.25.17:413][ 15]LogTexture: Display: Building textures: Char_M_Cardboard_N (BC5, 2048X2048)
+[2019.11.25-12.25.17:413][ 15]LogTexture: Display: Building textures: Char_M_Cardboard_D (DXT1, 2048X2048)
+[2019.11.25-12.25.17:413][ 15]LogTexture: Display: Building textures: Char_M_Cardboard_Skin_Mask (AutoDXT, 2048X2048)
+[2019.11.25-12.25.17:413][ 15]LogMaterial: Display: Missing cached shader map for material M_Char_Cardboard, compiling. 
+[2019.11.25-12.25.17:446][ 15]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-12.25.17:446][ 15]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-12.25.17:446][ 15]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-12.25.17:465][ 15]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+[2019.11.25-12.25.17:477][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-12.25.20:781][ 82]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-12.25.21:700][104]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.25-12.25.22:861][136]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.11.25-12.25.23:925][162]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.11.25-12.25.25:375][196]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.25-12.25.25:392][196]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.25-12.25.25:402][196]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.25-12.26.06:341][226]LogSlate: Window 'SK_CharM_Cardboard' being destroyed
+[2019.11.25-12.26.06:344][226]LogSlate: Window 'SK_CharM_Cardboard' being destroyed
+[2019.11.25-12.26.06:345][226]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.26.44:966][590]LogTexture: Display: Building textures: T_CharM_Ram_N (BC5, 2048X2048)
+[2019.11.25-12.26.44:966][590]LogTexture: Display: Building textures: T_CharM_Ram_B_D (DXT1, 2048X2048)
+[2019.11.25-12.26.44:966][590]LogTexture: Display: Building textures: T_CharM_Ram_B_Mask (AutoDXT, 2048X2048)
+[2019.11.25-12.26.44:966][590]LogMaterial: Display: Missing cached shader map for material M_Char_Ram, compiling. 
+[2019.11.25-12.26.45:005][590]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Ram...
+[2019.11.25-12.26.45:008][590]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Ram.SK_CharM_Ram
+[2019.11.25-12.26.45:012][590]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-12.26.45:012][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-12.26.45:012][590]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-12.26.45:028][590]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Ram.SK_CharM_Ram
+[2019.11.25-12.26.45:040][590]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-12.26.48:600][663]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-12.26.49:402][685]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.25-12.26.50:864][719]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.11.25-12.26.51:381][731]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.11.25-12.26.53:027][771]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.25-12.26.53:196][775]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.25-12.26.53:374][778]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.25-12.27.05:088][ 73]LogSlate: Window 'SK_CharM_Ram' being destroyed
+[2019.11.25-12.27.05:113][ 73]LogSlate: Window 'SK_CharM_Ram' being destroyed
+[2019.11.25-12.27.05:113][ 73]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.36.45:605][ 25]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.25-12.38.19:484][968]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.25-12.38.37:276][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.25-12.38.37:276][655]LogMetaData: Removing '/Game/Blueprints/AllLevels/PlayerSaveGame.SKEL_PlayerSaveGame_C' ref from Metadata '/Game/Blueprints/AllLevels/NewBlueprint.PackageMetaData'
+[2019.11.25-12.38.37:276][655]LogMetaData: Removing '/Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame_C' ref from Metadata '/Game/Blueprints/AllLevels/NewBlueprint.PackageMetaData'
+[2019.11.25-12.38.37:331][655]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/PlayerSaveGameAD87750C4D0B4A095346879F2A806F7D.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/AllLevels/PlayerSaveGame.uasset'
+[2019.11.25-12.38.37:494][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.11.25-12.38.37:538][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.25-12.38.37:580][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.25-12.38.55:189][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.11.25-12.38.57:206][355]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-12.38.57:245][355]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/GameInfoInstanceAFFD786F45A470D8378E09AC3E159763.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2019.11.25-12.38.57:251][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/PlayerInfo" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/AllLevels/PlayerInfo.uasset" SILENT=true
+[2019.11.25-12.38.57:259][355]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/PlayerInfo1F0906984A4BB12773D95E95A99E4CCB.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/AllLevels/PlayerInfo.uasset'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:280][504]LogMetaData: Removing '/Game/Blueprints/Characters/ThirdPersonCharacter.ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.39.29:377][504]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonCharacter677B2B894AE262883BE403B77D2203D9.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/ThirdPersonCharacter.uasset'
+[2019.11.25-12.39.29:397][504]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonCharacterEF8382704642731C8E551B92E2601D9F.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.25-12.39.37:279][716]Cmd: TRANSACTION UNDO
+[2019.11.25-12.39.37:279][716]LogEditorTransaction: Undo Add Variable
+[2019.11.25-12.39.37:283][716]LogBlueprint: Error: [Compiler PlayerInfo] Structure 'UserDefinedStruct /Game/Blueprints/AllLevels/PlayerInfo.PlayerInfo' is empty 
+[2019.11.25-12.39.50:227][657]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonCharacterFF3B77BE4B190AD0CADBF6B547560300.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.25-12.39.58:585][999]LogSlate: Window 'Failed Renames' being destroyed
+[2019.11.25-12.40.06:192][760]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonCharacterCBD635114E89438FBD8E5F8538FA310B.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.25-12.40.14:637][247]LogSlate: Window 'Failed Renames' being destroyed
+[2019.11.25-12.40.23:199][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.11.25-12.40.57:273][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.25-12.40.57:273][895]LogMetaData: Removing '/Game/Blueprints/Characters/0_Base.0_Base_C' ref from Metadata '/Game/Blueprints/Characters/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.40.57:273][895]LogMetaData: Removing '/Game/Blueprints/Characters/0_Base.SKEL_0_Base_C' ref from Metadata '/Game/Blueprints/Characters/ThirdPersonCharacter.PackageMetaData'
+[2019.11.25-12.40.57:344][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_Base" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2019.11.25-12.40.57:404][895]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/0_BaseE90C9F794BC83BD82260B985E8873D17.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/0_Base.uasset'
+[2019.11.25-12.40.57:561][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.11.25-12.40.57:603][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.25-12.40.57:639][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.25-12.40.57:671][895]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonCharacter6FE23003486C2FC6EFED08A437ABA276.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.25-12.41.06:288][ 18]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/0_Base.0_Base
+[2019.11.25-12.41.06:803][ 18]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.11.25-12.41.07:732][ 18]LogSlate: Took 0.004937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.25-12.41.33:031][590]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.11.25-12.42.11:789][189]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.11.25-12.42.11:790][189]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.11.25-12.42.11:790][189]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.11.25-12.42.11:791][189]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.11.25-12.42.11:791][189]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.11.25-12.42.35:815][465]BlueprintLog: New page: Compile 0_Base
+[2019.11.25-12.42.36:053][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.25-12.42.36:789][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_Base" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2019.11.25-12.42.36:843][483]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/0_BaseBC531D7D4A7330D3EF44B690B201B2B8.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/0_Base.uasset'
+[2019.11.25-12.42.38:754][542]LogSlate: Window '0_Base' being destroyed
+[2019.11.25-12.42.38:766][542]LogSlate: Window '0_Base' being destroyed
+[2019.11.25-12.42.38:791][542]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.44.14:153][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.11.25-12.44.23:581][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.11.25-12.44.32:854][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.11.25-12.45.00:004][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.11.25-12.45.07:475][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.11.25-12.45.11:163][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.11.25-12.45.17:958][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.25-12.45.37:758][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.11.25-12.45.40:419][ 63]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-12.45.40:453][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/PlayerInfo" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/AllLevels/PlayerInfo.uasset" SILENT=true
+[2019.11.25-12.45.40:465][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/PlayerInfoD8FC8896461EF163F84DFAB223587569.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/AllLevels/PlayerInfo.uasset'
+[2019.11.25-12.45.40:500][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Barbarous" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Barbarous.uasset" SILENT=true
+[2019.11.25-12.45.40:523][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Barbarous43ED701B4E61E1A313CA70B1AD364C96.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Barbarous.uasset'
+[2019.11.25-12.45.40:558][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Frosty" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Frosty.uasset" SILENT=true
+[2019.11.25-12.45.40:581][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Frosty47B41A4A4F52288043E9489A80D96987.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Frosty.uasset'
+[2019.11.25-12.45.40:614][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Greg" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Greg.uasset" SILENT=true
+[2019.11.25-12.45.40:636][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Greg52AFC6DB4C51FF418B7F7A98FEF85D5A.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Greg.uasset'
+[2019.11.25-12.45.40:670][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Infected" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Infected.uasset" SILENT=true
+[2019.11.25-12.45.40:692][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/InfectedB253A4D041A608904D2A01837A9445E2.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Infected.uasset'
+[2019.11.25-12.45.40:725][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Pan" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Pan.uasset" SILENT=true
+[2019.11.25-12.45.40:748][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/PanFAC18F3744572EC977D7D8AFBF8C88D9.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Pan.uasset'
+[2019.11.25-12.45.40:779][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Robo" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Robo.uasset" SILENT=true
+[2019.11.25-12.45.40:804][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/RoboE9298CB544D6AD6F2CA8E79101719C0E.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Robo.uasset'
+[2019.11.25-12.45.40:837][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Tusk" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Tusk.uasset" SILENT=true
+[2019.11.25-12.45.40:860][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Tusk8640F66D4233232C81FDF6A4F1DCEDE0.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Tusk.uasset'
+[2019.11.25-12.45.40:894][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Warrior" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Warrior.uasset" SILENT=true
+[2019.11.25-12.45.40:917][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Warrior86EA9430489F5215ECADADB86EF2A497.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Warrior.uasset'
+[2019.11.25-12.45.40:998][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonCharacter_27087FBBB442CFBFC277B5384CC2BF94B.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter_2.uasset'
+[2019.11.25-12.45.41:020][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonGameMode0955CA1641E944DB472FF28D43208CD4.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.11.25-12.45.41:063][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.25-12.45.41:251][ 63]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonExampleMap85D91D9F4AB33A19032F2EBE2C407EFE.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.25-12.45.41:275][ 63]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.248
+[2019.11.25-12.46.02:014][440]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.25-12.46.22:484][ 80]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.25-12.46.46:989][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.11.25-12.46.47:031][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.11.25-12.47.01:663][991]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2019.11.25-12.47.01:665][991]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyGM.SKEL_LobbyGM_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayGM.PackageMetaData'
+[2019.11.25-12.47.01:666][991]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayGM.PackageMetaData'
+[2019.11.25-12.47.01:708][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2019.11.25-12.47.01:731][991]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/LobbyGM2F3E77434AFF84B7217407AA76A764F8.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2019.11.25-12.47.01:965][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.11.25-12.47.02:002][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.11.25-12.47.02:031][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.25-12.47.09:762][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.11.25-12.47.09:763][598]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyPC.SKEL_LobbyPC_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayPC.PackageMetaData'
+[2019.11.25-12.47.09:763][598]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyPC.LobbyPC_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayPC.PackageMetaData'
+[2019.11.25-12.47.09:800][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2019.11.25-12.47.09:817][598]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/LobbyPCEAE018854EAB8B6E01F99DB2368C570D.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2019.11.25-12.47.10:059][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.25-12.47.10:117][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.11.25-12.47.10:167][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.11.25-12.47.45:683][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.11.25-12.47.46:867][820]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-12.47.46:896][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2019.11.25-12.47.46:909][820]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/GameplayGM4886F297426914F0405E63B0F8853104.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2019.11.25-12.47.46:916][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2019.11.25-12.47.46:929][820]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/GameplayPCB1AEE908494AAC3C19735F9AA0B14FFA.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2019.11.25-12.48.12:314][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.48.13:405][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.48.20:498][850]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.11.25-12.48.20:607][851]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (NewTextRenderComponent)
+[2019.11.25-12.48.24:363][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-12.49.13:647][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.49.16:619][863]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.11.25-12.49.19:256][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-12.50.00:414][572]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.01:489][636]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.02:864][716]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.03:705][768]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.06:929][962]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2019.11.25-12.50.13:027][311]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart2)
+[2019.11.25-12.50.18:977][661]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.18:977][661]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.18:978][661]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.22:385][868]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.22:386][868]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.22:386][868]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.25-12.50.23:697][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.50.26:675][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.50.26:992][ 74]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.11.25-12.50.32:373][382]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart6)
+[2019.11.25-12.50.33:914][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.50.35:275][547]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart4)
+[2019.11.25-12.50.41:060][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-12.50.54:451][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.50.56:271][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.51.39:172][872]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.25-12.51.55:994][446]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.25-12.51.56:093][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.11.25-12.51.56:254][446]LogAIModule: Creating AISystem for world Arena_01
+[2019.11.25-12.51.56:266][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_01" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.25-12.51.56:304][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.25-12.51.56:489][446]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Arena_011E888BDD4A602AE0E402C48F14928F04.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_01.umap'
+[2019.11.25-12.51.56:502][446]LogFileHelpers: Saving map 'Arena_01' took 0.502
+[2019.11.25-12.51.56:504][446]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-12.51.56:525][446]LightingResults: New page: Lighting Build
+[2019.11.25-12.51.56:526][446]LoadErrors: New page: Loading map: Arena_01.umap
+[2019.11.25-12.51.56:527][446]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.51.56:529][446]MapCheck: New page: Map Check
+[2019.11.25-12.51.56:529][446]LightingResults: New page: Lighting Build
+[2019.11.25-12.51.56:566][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.11.25-12.51.56:649][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-12.51.56:685][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.11.25-12.51.56:709][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-12.51.56:709][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,116ms to complete.
+[2019.11.25-12.51.56:709][446]LogFileHelpers: Loading map 'Arena_01' took 0.207
+[2019.11.25-12.52.38:623][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.25-12.52.39:274][  5]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.11.25-12.52.50:931][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.25-12.53.34:487][530]Cmd: TRANSACTION UNDO
+[2019.11.25-12.53.34:487][530]LogEditorTransaction: Undo Edit Intensity
+[2019.11.25-12.54.13:363][476]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.25-12.54.22:423][ 37]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.25-12.54.22:569][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.11.25-12.54.22:754][ 37]LogAIModule: Creating AISystem for world Arena_02
+[2019.11.25-12.54.22:764][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_02" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.25-12.54.22:825][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.11.25-12.54.23:017][ 37]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Arena_0223DE28144A6BEF5D35A0A8868EF6B310.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_02.umap'
+[2019.11.25-12.54.23:028][ 37]LogFileHelpers: Saving map 'Arena_02' took 0.597
+[2019.11.25-12.54.23:029][ 37]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-12.54.23:046][ 37]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.23:048][ 37]LoadErrors: New page: Loading map: Arena_02.umap
+[2019.11.25-12.54.23:048][ 37]LogWorld: UWorld::CleanupWorld for Arena_01, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.54.23:049][ 37]MapCheck: New page: Map Check
+[2019.11.25-12.54.23:049][ 37]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.23:082][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.11.25-12.54.23:159][ 37]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-12.54.23:193][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.25-12.54.23:217][ 37]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-12.54.23:217][ 37]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,128ms to complete.
+[2019.11.25-12.54.23:217][ 37]LogFileHelpers: Loading map 'Arena_02' took 0.189
+[2019.11.25-12.54.25:808][180]LogAIModule: Creating AISystem for world Arena_01
+[2019.11.25-12.54.25:824][180]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Arena_01.Arena_01
+[2019.11.25-12.54.25:868][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.25-12.54.25:869][180]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-12.54.25:870][180]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.25:870][180]LoadErrors: New page: Loading map: Arena_01.umap
+[2019.11.25-12.54.25:871][180]LogWorld: UWorld::CleanupWorld for Arena_02, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.54.25:871][180]MapCheck: New page: Map Check
+[2019.11.25-12.54.25:871][180]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.25:919][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.25-12.54.26:032][180]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-12.54.26:068][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.11.25-12.54.26:086][180]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-12.54.26:086][180]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,118ms to complete.
+[2019.11.25-12.54.26:086][180]LogFileHelpers: Loading map 'Arena_01' took 0.218
+[2019.11.25-12.54.27:153][220]LogAIModule: Creating AISystem for world Arena_02
+[2019.11.25-12.54.27:162][220]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Arena_02.Arena_02
+[2019.11.25-12.54.27:191][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.25-12.54.27:192][220]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-12.54.27:192][220]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.27:192][220]LoadErrors: New page: Loading map: Arena_02.umap
+[2019.11.25-12.54.27:193][220]LogWorld: UWorld::CleanupWorld for Arena_01, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.54.27:193][220]MapCheck: New page: Map Check
+[2019.11.25-12.54.27:193][220]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.27:226][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.25-12.54.27:351][220]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-12.54.27:386][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.25-12.54.27:406][220]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-12.54.27:406][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,12ms to complete.
+[2019.11.25-12.54.27:406][220]LogFileHelpers: Loading map 'Arena_02' took 0.215
+[2019.11.25-12.54.28:117][251]LogAIModule: Creating AISystem for world Arena_01
+[2019.11.25-12.54.28:129][251]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Arena_01.Arena_01
+[2019.11.25-12.54.28:162][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.11.25-12.54.28:163][251]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-12.54.28:163][251]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.28:164][251]LoadErrors: New page: Loading map: Arena_01.umap
+[2019.11.25-12.54.28:165][251]LogWorld: UWorld::CleanupWorld for Arena_02, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.54.28:165][251]MapCheck: New page: Map Check
+[2019.11.25-12.54.28:165][251]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.28:198][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.11.25-12.54.28:346][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-12.54.28:383][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.11.25-12.54.28:401][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-12.54.28:401][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2019.11.25-12.54.28:401][251]LogFileHelpers: Loading map 'Arena_01' took 0.240
+[2019.11.25-12.54.36:126][638]LogAIModule: Creating AISystem for world Arena_02
+[2019.11.25-12.54.36:146][638]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Arena_02.Arena_02
+[2019.11.25-12.54.36:176][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.25-12.54.36:177][638]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Arena_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-12.54.36:177][638]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.36:177][638]LoadErrors: New page: Loading map: Arena_02.umap
+[2019.11.25-12.54.36:178][638]LogWorld: UWorld::CleanupWorld for Arena_01, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-12.54.36:178][638]MapCheck: New page: Map Check
+[2019.11.25-12.54.36:178][638]LightingResults: New page: Lighting Build
+[2019.11.25-12.54.36:211][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.25-12.54.36:384][638]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-12.54.36:420][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.11.25-12.54.36:439][638]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-12.54.36:439][638]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,118ms to complete.
+[2019.11.25-12.54.36:439][638]LogFileHelpers: Loading map 'Arena_02' took 0.263
+[2019.11.25-13.00.38:288][613]LogSlate: Window 'New Level' being destroyed
+[2019.11.25-13.00.38:296][613]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-13.00.38:320][613]LightingResults: New page: Lighting Build
+[2019.11.25-13.00.38:321][613]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.11.25-13.00.38:321][613]LogWorld: UWorld::CleanupWorld for Arena_02, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.00.38:321][613]MapCheck: New page: Map Check
+[2019.11.25-13.00.38:321][613]LightingResults: New page: Lighting Build
+[2019.11.25-13.00.38:356][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.25-13.00.38:371][613]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.25-13.00.38:564][613]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-13.00.38:599][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.25-13.00.38:604][613]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-13.00.38:605][613]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,201ms to complete.
+[2019.11.25-13.00.38:605][613]LogFileHelpers: Loading map 'Template_Default' took 0.310
+[2019.11.25-13.00.47:209][938]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.25-13.00.47:318][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.11.25-13.00.47:320][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.25-13.00.47:368][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.11.25-13.00.47:504][938]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Lobby4EC2CACA43DF351451A242B670209997.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Lobby.umap'
+[2019.11.25-13.00.47:528][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2019.11.25-13.00.47:542][938]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Lobby_BuiltData655DF18D473FD2C73915D2A693B37E17.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Lobby_BuiltData.uasset'
+[2019.11.25-13.00.47:549][938]LogFileHelpers: Saving map 'Lobby' took 0.332
+[2019.11.25-13.00.47:550][938]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-13.00.47:568][938]LightingResults: New page: Lighting Build
+[2019.11.25-13.00.47:569][938]LoadErrors: New page: Loading map: Lobby.umap
+[2019.11.25-13.00.47:569][938]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.00.47:570][938]MapCheck: New page: Map Check
+[2019.11.25-13.00.47:570][938]LightingResults: New page: Lighting Build
+[2019.11.25-13.00.47:601][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.25-13.00.47:614][938]LogAIModule: Creating AISystem for world Lobby
+[2019.11.25-13.00.47:803][938]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-13.00.47:836][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.11.25-13.00.47:857][938]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-13.00.47:858][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2019.11.25-13.00.47:858][938]LogFileHelpers: Loading map 'Lobby' took 0.308
+[2019.11.25-13.01.16:324][266]LogSlate: Window 'New Level' being destroyed
+[2019.11.25-13.01.16:329][266]LightingResults: New page: Lighting Build
+[2019.11.25-13.01.16:330][266]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.01.16:330][266]MapCheck: New page: Map Check
+[2019.11.25-13.01.16:330][266]LightingResults: New page: Lighting Build
+[2019.11.25-13.01.16:366][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.25-13.01.16:367][266]LogAIModule: Creating AISystem for world Untitled
+[2019.11.25-13.01.16:578][266]LoadErrors: New page: New Map
+[2019.11.25-13.01.26:307][798]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.25-13.01.26:341][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TravelMap" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/TravelMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.25-13.01.26:375][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.25-13.01.26:383][798]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/TravelMap950FCB74469DB862EC2B1BB45928AF91.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/TravelMap.umap'
+[2019.11.25-13.01.26:409][798]LogFileHelpers: Saving map 'TravelMap' took 0.094
+[2019.11.25-13.01.26:410][798]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/TravelMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-13.01.26:429][798]LightingResults: New page: Lighting Build
+[2019.11.25-13.01.26:430][798]LoadErrors: New page: Loading map: TravelMap.umap
+[2019.11.25-13.01.26:431][798]LogWorld: UWorld::CleanupWorld for TravelMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.01.26:431][798]MapCheck: New page: Map Check
+[2019.11.25-13.01.26:431][798]LightingResults: New page: Lighting Build
+[2019.11.25-13.01.26:461][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.25-13.01.26:468][798]LogAIModule: Creating AISystem for world TravelMap
+[2019.11.25-13.01.26:696][798]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-13.01.26:729][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.11.25-13.01.26:751][798]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-13.01.26:751][798]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2019.11.25-13.01.26:751][798]LogFileHelpers: Loading map 'TravelMap' took 0.342
+[2019.11.25-13.07.07:507][435]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.25-13.07.07:574][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.25-13.07.07:716][435]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.25-13.07.07:720][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.25-13.07.07:754][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.11.25-13.07.07:896][435]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/MainMenuDA3F785C45EE433EED3BCC8CBABF1632.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/MainMenu.umap'
+[2019.11.25-13.07.07:905][435]LogFileHelpers: Saving map 'MainMenu' took 0.391
+[2019.11.25-13.07.07:906][435]Cmd: MAP LOAD FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-13.07.07:926][435]LightingResults: New page: Lighting Build
+[2019.11.25-13.07.07:927][435]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.11.25-13.07.07:927][435]LogWorld: UWorld::CleanupWorld for TravelMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.07.07:927][435]MapCheck: New page: Map Check
+[2019.11.25-13.07.07:927][435]LightingResults: New page: Lighting Build
+[2019.11.25-13.07.07:960][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.25-13.07.08:210][435]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-13.07.08:242][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.25-13.07.08:263][435]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-13.07.08:263][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,111ms to complete.
+[2019.11.25-13.07.08:264][435]LogFileHelpers: Loading map 'MainMenu' took 0.359
+[2019.11.25-13.08.42:135][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.25-13.08.42:135][271]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.SKEL_ChatText_C' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2019.11.25-13.08.42:135][271]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText_C' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2019.11.25-13.08.42:135][271]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2019.11.25-13.08.42:135][271]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2019.11.25-13.08.42:135][271]LogMetaData: Removing '/Game/UI/AllLevels/ChatText.ChatText:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/AllLevels/NewWidgetBlueprint.PackageMetaData'
+[2019.11.25-13.08.42:159][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/ChatText" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/ChatText.uasset" SILENT=true
+[2019.11.25-13.08.42:170][271]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ChatText41B8DF4D401A118876262FBB45EF54DE.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/ChatText.uasset'
+[2019.11.25-13.08.42:323][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.25-13.08.42:361][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.11.25-13.08.42:390][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.25-13.09.05:871][104]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.11.25-13.09.26:324][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.11.25-13.09.42:420][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.11.25-13.09.55:924][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.11.25-13.09.57:225][379]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-13.09.57:255][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/ChatWindow" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/ChatWindow.uasset" SILENT=true
+[2019.11.25-13.09.57:268][379]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ChatWindow4E5401524040AF9939AB69913CA9B552.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/ChatWindow.uasset'
+[2019.11.25-13.09.57:274][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/GamePlayChat" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/GamePlayChat.uasset" SILENT=true
+[2019.11.25-13.09.57:284][379]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/GamePlayChat9FEDE07C41E7BBF419E7F1B0322CFDF7.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/GamePlayChat.uasset'
+[2019.11.25-13.09.57:291][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/LoadingScreen" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/LoadingScreen.uasset" SILENT=true
+[2019.11.25-13.09.57:302][379]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/LoadingScreen88D4F8F54AB7F5144A38668A56BB81E8.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/AllLevels/LoadingScreen.uasset'
+[2019.11.25-13.10.00:115][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.25-13.10.43:539][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.25-13.11.04:079][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.25-13.11.12:551][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.11.25-13.11.24:602][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.25-13.11.33:440][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.11.25-13.11.34:467][254]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-13.11.34:496][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2019.11.25-13.11.34:509][254]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/CharacterSelectC79853054ED3C77B56BA76BDDBFF9347.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/CharacterSelect.uasset'
+[2019.11.25-13.11.34:516][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/ConnectedPlayer" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/ConnectedPlayer.uasset" SILENT=true
+[2019.11.25-13.11.34:526][254]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ConnectedPlayer3671B3D64EE168BF75FE13B553AA485C.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/ConnectedPlayer.uasset'
+[2019.11.25-13.11.34:532][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2019.11.25-13.11.34:543][254]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/GameSettings2AD0AC0945805C73CEF902B05771A08D.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/GameSettings.uasset'
+[2019.11.25-13.11.34:549][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2019.11.25-13.11.34:560][254]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/LobbyMenuE97C912544A1825CBE7B6DBEFAD6AA99.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/LobbyMenu.uasset'
+[2019.11.25-13.11.34:565][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/PlayerButton" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/PlayerButton.uasset" SILENT=true
+[2019.11.25-13.11.34:576][254]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/PlayerButton1E7A75EE48096B2B20909BA6C4AFB016.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/Lobby/PlayerButton.uasset'
+[2019.11.25-13.12.05:113][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.11.25-13.12.14:052][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.11.25-13.12.20:789][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.11.25-13.12.27:501][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.25-13.12.36:285][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.11.25-13.12.37:379][398]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-13.12.37:410][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ErrorDialouge" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/ErrorDialouge.uasset" SILENT=true
+[2019.11.25-13.12.37:425][398]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ErrorDialouge31C80FB741D30414E1DB9BAEDA9B7C81.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/ErrorDialouge.uasset'
+[2019.11.25-13.12.37:431][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2019.11.25-13.12.37:445][398]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/HostMenu7C742A6F4F3DA4BAF170CEA916EE0628.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/HostMenu.uasset'
+[2019.11.25-13.12.37:453][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2019.11.25-13.12.37:469][398]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/MainMenu1A6F448C41C62C9CCE05B0B16C080E6C.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/MainMenu.uasset'
+[2019.11.25-13.12.37:476][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2019.11.25-13.12.37:489][398]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/OptionsMenuB37541C24BB5C7B5EE9061B000DF60DE.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/OptionsMenu.uasset'
+[2019.11.25-13.12.37:495][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2019.11.25-13.12.37:507][398]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ServerMenu6C4A01C94DEC22A780DED99F9F13E32A.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/UI/MainMenu/ServerMenu.uasset'
+[2019.11.25-13.12.58:775][984]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.25-13.13.46:716][167]LogAIModule: Creating AISystem for world TravelMap
+[2019.11.25-13.14.23:328][876]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.25-13.14.33:514][289]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.25-13.14.33:517][289]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.25-13.17.04:693][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.11.25-13.17.04:693][707]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.069
+[2019.11.25-13.17.21:836][211]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.11.25-13.17.21:845][211]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-13.17.21:883][211]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.25-13.20.23:093][459]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/UE4_Mannequin_Skeleton6CC40D7242BCAC95BFAFFAA1A033F822.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.11.25-13.20.24:699][510]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.11.25-13.20.24:728][510]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.11.25-13.20.24:728][510]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.20.51:624][992]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2019.11.25-13.20.55:425][992]LogTexture: Display: Building textures: T_CharM_Warrior_N (BC5, 2048X2048)
+[2019.11.25-13.20.55:425][992]LogTexture: Display: Building textures: T_CharM_WarriorB_D (DXT1, 2048X2048)
+[2019.11.25-13.20.55:425][992]LogTexture: Display: Building textures: T_CharM_WarriorB_Mask (AutoDXT, 2048X2048)
+[2019.11.25-13.20.55:425][992]LogTexture: Display: Building textures: T_CharM_Warrior_JewelMask (AutoDXT, 2048X2048)
+[2019.11.25-13.20.55:425][992]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Warrior...
+[2019.11.25-13.20.55:429][992]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior
+[2019.11.25-13.20.55:432][992]LogMaterial: Display: Missing cached shader map for material M_Char_Warrior_B, compiling. 
+[2019.11.25-13.20.55:471][992]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-13.20.55:471][992]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-13.20.55:471][992]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-13.20.55:478][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-13.21.00:114][129]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-13.21.03:085][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.25-13.21.04:292][259]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.25-13.21.05:574][304]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.25-13.21.05:926][320]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.11.25-13.21.07:050][371]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.25-13.21.07:323][381]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.25-13.21.09:748][465]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/SK_Mannequin_Skeleton0EDD1D174E1E72DEE00A5194E1E85838.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2019.11.25-13.21.11:416][524]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/SK_Mannequin_SkeletonC9E5D3B34B3EA5125B1E81A19E46BB68.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2019.11.25-13.21.12:077][547]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/SK_Mannequin_Skeleton07DBE49F4C9AD22CBDF2D9B90035F398.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2019.11.25-13.21.12:997][583]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/SK_Mannequin_Skeleton3FAE88C347B0E5F4DCFC66AC6A03B54A.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2019.11.25-13.21.14:168][627]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2019.11.25-13.21.14:194][627]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2019.11.25-13.21.14:194][627]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.22.05:903][661]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.11.25-13.22.21:688][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.25-13.22.21:718][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.11.25-13.22.21:719][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:731][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.11.25-13.22.21:731][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:743][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.11.25-13.22.21:744][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:753][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.11.25-13.22.21:753][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:766][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.11.25-13.22.21:766][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:786][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.11.25-13.22.21:786][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:810][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.11.25-13.22.21:810][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:833][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.11.25-13.22.21:833][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:860][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.11.25-13.22.21:860][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:875][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.11.25-13.22.21:875][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:894][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.11.25-13.22.21:894][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:914][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.11.25-13.22.21:914][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.21:938][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle
+[2019.11.25-13.22.21:938][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.22:034][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2019.11.25-13.22.22:034][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.22:070][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2019.11.25-13.22.22:070][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.22:089][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle
+[2019.11.25-13.22.22:090][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.22:182][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2019.11.25-13.22.22:182][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.22:215][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2019.11.25-13.22.22:215][182]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-13.22.22:265][182]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.11.25-13.22.22:268][182]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.22.22:283][182]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.22.22:347][183]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2019.11.25-13.22.50:209][461]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.11.25-13.22.50:225][461]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-13.22.55:027][609]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2019.11.25-13.22.55:048][609]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2019.11.25-13.22.55:078][609]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.22.55:082][609]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.22.55:193][609]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.22.57:473][701]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.11.25-13.22.57:491][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-13.22.58:088][701]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.25-13.23.11:898][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-13.23.12:001][259]LogSlate: Window 'ThirdPersonJump_Loop' being destroyed
+[2019.11.25-13.23.12:024][259]LogSlate: Window 'ThirdPersonJump_Loop' being destroyed
+[2019.11.25-13.23.12:024][259]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.12:065][259]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.12:166][259]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.13:302][304]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.11.25-13.23.13:312][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-13.23.13:636][304]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.25-13.23.19:299][527]LogSlate: Window 'ThirdPersonJump_Start' being destroyed
+[2019.11.25-13.23.19:322][527]LogSlate: Window 'ThirdPersonJump_Start' being destroyed
+[2019.11.25-13.23.19:323][527]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.19:347][527]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.19:451][527]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.19:554][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.11.25-13.23.21:993][527]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-13.23.25:093][636]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2019.11.25-13.23.25:105][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.25-13.23.25:649][636]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.25-13.23.46:531][448]LogSlate: Window 'ThirdPersonWalk' being destroyed
+[2019.11.25-13.23.46:552][448]LogSlate: Window 'ThirdPersonWalk' being destroyed
+[2019.11.25-13.23.46:552][448]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.46:581][448]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.23.46:682][448]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:701][792]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.24.47:843][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPerson_AnimBP895B4CD0466B7DC35C03EFAC5814AEFE.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.uasset'
+[2019.11.25-13.24.47:886][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPerson_IdleRun_2D1D23AB23428F28A1223408910B150A86.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2019.11.25-13.24.47:928][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPerson_Jump17A42EE14F052E5261AA0BBCBD2060AD.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPerson_Jump.uasset'
+[2019.11.25-13.24.47:974][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonIdle2CCE3DE247E86A73BFE2C899FFD5DCBC.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPersonIdle.uasset'
+[2019.11.25-13.24.48:013][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonJump_Loop7BC91EC949C97C0BC094609EDF9529E4.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Loop.uasset'
+[2019.11.25-13.24.48:054][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonJump_Start9F3EBE8A4873BCC24901A4A33475FB8D.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Start.uasset'
+[2019.11.25-13.24.48:093][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonRun6DD7A6E94911A35589C1A791250F060A.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPersonRun.uasset'
+[2019.11.25-13.24.48:136][792]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/ThirdPersonWalkF9C7E75240343392F31A0891E21AE348.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/ThirdPersonWalk.uasset'
+[2019.11.25-13.24.48:945][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.11.25-13.24.48:977][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.25-13.24.49:007][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.25-13.24.49:037][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.25-13.24.49:066][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.25-13.24.49:095][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.25-13.24.49:123][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.25-13.24.49:154][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.25-13.24.49:186][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.11.25-13.24.49:215][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.25-13.25.21:539][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.11.25-13.25.21:541][964]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/0_AnimBase.0_AnimBase_C' ref from Metadata '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.25.21:542][964]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/0_AnimBase.SKEL_0_AnimBase_C' ref from Metadata '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.11.25-13.25.21:644][964]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/0_AnimBase914AE7DB4F92908FC54B258F373819BE.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/InfinityBladeWarriors/Animations/0_AnimBase.uasset'
+[2019.11.25-13.25.21:798][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.11.25-13.25.21:833][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.25-13.25.21:861][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.25-13.25.55:951][ 27]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/0_Base.0_Base
+[2019.11.25-13.26.09:305][212]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.25-13.26.39:217][  0]BlueprintLog: New page: Compile 0_Base
+[2019.11.25-13.26.39:710][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.11.25-13.26.56:626][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_Base" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2019.11.25-13.26.56:672][136]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/0_Base4B51A13A4BB5475FBDB6C3A0B511829E.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/0_Base.uasset'
+[2019.11.25-13.26.57:890][181]LogSlate: Window '0_Base' being destroyed
+[2019.11.25-13.26.57:908][181]LogSlate: Window '0_Base' being destroyed
+[2019.11.25-13.26.57:909][181]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.27.08:201][489]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Barbarous.Barbarous
+[2019.11.25-13.27.36:460][274]LogSlate: Window 'Barbarous' being destroyed
+[2019.11.25-13.27.36:476][274]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.27.36:546][274]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Barbarous.Barbarous
+[2019.11.25-13.28.15:566][614]LogTexture: Display: Building textures: T_CharM_Barbarous_D (DXT1, 2048X2048)
+[2019.11.25-13.28.15:566][614]LogTexture: Display: Building textures: T_CharM_Barbarous_N (BC5, 2048X2048)
+[2019.11.25-13.28.15:566][614]LogTexture: Display: Building textures: T_CharM_Barbarous_MetalMask (DXT1, 2048X2048)
+[2019.11.25-13.28.15:566][614]LogMaterial: Display: Missing cached shader map for material M_Char_Barbrous, compiling. 
+[2019.11.25-13.28.15:596][614]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Barbarous...
+[2019.11.25-13.28.15:613][614]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-13.28.15:613][614]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-13.28.15:613][614]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-13.28.15:613][614]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.SK_CharM_Barbarous
+[2019.11.25-13.28.18:620][684]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-13.28.20:720][756]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.25-13.28.23:228][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.11.25-13.28.23:870][856]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.11.25-13.28.25:355][895]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.25-13.28.25:678][906]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.25-13.28.26:384][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.25-13.28.39:461][ 32]BlueprintLog: New page: Compile Barbarous
+[2019.11.25-13.28.39:709][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.25-13.28.40:300][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Barbarous" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Barbarous.uasset" SILENT=true
+[2019.11.25-13.28.40:330][ 50]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Barbarous4A917A7540DE0D0298E5129613078C5B.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Barbarous.uasset'
+[2019.11.25-13.28.43:458][176]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Frosty.Frosty
+[2019.11.25-13.28.46:843][356]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.28.46:902][356]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Frosty.Frosty
+[2019.11.25-13.29.02:546][934]LogTexture: Display: Building textures: CharM_Forge_MetalMask (AutoDXT, 2048X2048)
+[2019.11.25-13.29.02:546][934]LogTexture: Display: Building textures: CharM_Forge_N (BC5, 2048X2048)
+[2019.11.25-13.29.02:546][934]LogTexture: Display: Building textures: CharM_Forge_D (DXT1, 2048X2048)
+[2019.11.25-13.29.02:546][934]LogMaterial: Display: Missing cached shader map for material M_Char_Forge, compiling. 
+[2019.11.25-13.29.02:581][934]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Forge...
+[2019.11.25-13.29.02:584][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-13.29.02:584][934]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-13.29.02:584][934]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-13.29.02:584][934]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Forge.SK_CharM_Forge
+[2019.11.25-13.29.06:140][ 51]BlueprintLog: New page: Compile Frosty
+[2019.11.25-13.29.06:368][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.25-13.29.06:915][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Frosty" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Frosty.uasset" SILENT=true
+[2019.11.25-13.29.06:948][ 68]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Frosty1591E9BA4AE09E4710C68AAACB27174F.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Frosty.uasset'
+[2019.11.25-13.29.08:274][128]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-13.29.08:792][153]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.29.08:899][158]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.25-13.29.09:892][206]LogSlate: Window 'Barbarous' being destroyed
+[2019.11.25-13.29.09:908][206]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.25-13.29.09:909][206]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.29.11:335][310]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.11.25-13.29.11:563][317]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Greg.Greg
+[2019.11.25-13.29.11:921][317]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.11.25-13.29.13:730][376]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.25-13.29.15:077][489]LogSlate: Window 'Greg' being destroyed
+[2019.11.25-13.29.15:100][489]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.29.15:162][489]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Greg.Greg
+[2019.11.25-13.29.15:446][489]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.11.25-13.29.15:446][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.25-13.29.38:643][517]LogTexture: Display: Building textures: T_CharM_Bladed_MetalMask1 (AutoDXT, 2048X2048)
+[2019.11.25-13.29.38:643][517]LogTexture: Display: Building textures: T_CharM_Bladed_D (DXT1, 2048X2048)
+[2019.11.25-13.29.38:643][517]LogTexture: Display: Building textures: T_CharM_Bladed_N (BC5, 2048X2048)
+[2019.11.25-13.29.38:643][517]LogMaterial: Display: Missing cached shader map for material M_CharM_Bladed, compiling. 
+[2019.11.25-13.29.38:674][517]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Bladed...
+[2019.11.25-13.29.38:678][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-13.29.38:678][517]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-13.29.38:678][517]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-13.29.38:678][517]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Bladed.SK_CharM_Bladed
+[2019.11.25-13.29.40:105][579]BlueprintLog: New page: Compile Greg
+[2019.11.25-13.29.40:332][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.25-13.29.41:167][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Greg" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Greg.uasset" SILENT=true
+[2019.11.25-13.29.41:197][607]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Greg6C10F7C94BF8F236CCD349A056EF0D44.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Greg.uasset'
+[2019.11.25-13.29.43:668][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.11.25-13.29.43:835][702]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.11.25-13.29.46:717][833]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.11.25-13.29.46:915][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.25-13.29.49:347][952]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.25-13.29.50:425][  3]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.25-13.29.50:671][ 14]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.25-13.30.03:186][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-13.30.50:490][282]BlueprintLog: New page: Compile Greg
+[2019.11.25-13.30.50:702][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.11.25-13.30.52:410][361]LogSlate: Window 'Greg' being destroyed
+[2019.11.25-13.30.52:423][361]LogSlate: Window 'Greg' being destroyed
+[2019.11.25-13.30.52:441][361]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.30.59:339][699]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Infected.Infected
+[2019.11.25-13.31.15:126][343]BlueprintLog: New page: Compile Infected
+[2019.11.25-13.31.15:339][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.11.25-13.31.30:334][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Infected" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Infected.uasset" SILENT=true
+[2019.11.25-13.31.30:363][ 45]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/InfectedB84ACE4A42136F9204F889895DFEA678.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Infected.uasset'
+[2019.11.25-13.31.31:197][ 85]LogSlate: Window 'Infected' being destroyed
+[2019.11.25-13.31.31:212][ 85]LogSlate: Window 'Infected' being destroyed
+[2019.11.25-13.31.31:222][ 85]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.31.32:495][138]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Pan.Pan
+[2019.11.25-13.31.52:867][150]LogSlate: Window 'Pan' being destroyed
+[2019.11.25-13.31.52:888][150]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.31.52:952][150]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Pan.Pan
+[2019.11.25-13.32.04:353][667]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Golden...
+[2019.11.25-13.32.04:358][667]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Golden.SK_CharM_Golden
+[2019.11.25-13.32.07:038][667]LogTexture: Display: Building textures: T_CharM_Golden_Mask (AutoDXT, 2048X2048)
+[2019.11.25-13.32.07:038][667]LogTexture: Display: Building textures: T_CharM_Golden_D (DXT1, 2048X2048)
+[2019.11.25-13.32.07:038][667]LogTexture: Display: Building textures: T_CharM_Golden_N (BC5, 2048X2048)
+[2019.11.25-13.32.07:038][667]LogMaterial: Display: Missing cached shader map for material M_Char_Golden, compiling. 
+[2019.11.25-13.32.07:082][667]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-13.32.07:083][667]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-13.32.07:083][667]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-13.32.10:924][864]BlueprintLog: New page: Compile Pan
+[2019.11.25-13.32.11:153][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.11.25-13.32.11:436][877]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-13.32.12:489][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Pan" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Pan.uasset" SILENT=true
+[2019.11.25-13.32.12:518][924]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/PanA4DF45DA4AC977762CED26BD16F986D8.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Pan.uasset'
+[2019.11.25-13.32.13:438][968]LogSlate: Window 'Pan' being destroyed
+[2019.11.25-13.32.13:446][968]LogSlate: Window 'Pan' being destroyed
+[2019.11.25-13.32.13:459][968]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.32.14:552][ 19]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.25-13.32.16:096][ 60]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.25-13.32.16:791][ 99]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.25-13.32.17:572][188]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.11.25-13.32.18:737][320]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.25-13.32.19:010][351]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.25-13.32.20:258][406]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Robo.Robo
+[2019.11.25-13.32.25:697][743]LogSlate: Window 'Robo' being destroyed
+[2019.11.25-13.32.25:717][743]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.32.25:785][743]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Robo.Robo
+[2019.11.25-13.32.36:648][ 63]LogTexture: Display: Building textures: T_CharM_Natural_Mask (AutoDXT, 2048X2048)
+[2019.11.25-13.32.36:648][ 63]LogTexture: Display: Building textures: T_CharM_Natural_N (AutoDXT, 2048X2048)
+[2019.11.25-13.32.36:648][ 63]LogTexture: Display: Building textures: T_CharM_Natural_D (DXT1, 2048X2048)
+[2019.11.25-13.32.36:648][ 63]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Natural...
+[2019.11.25-13.32.36:652][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Natural.SK_CharM_Natural
+[2019.11.25-13.32.36:655][ 63]LogMaterial: Display: Missing cached shader map for material M_Char_Natural, compiling. 
+[2019.11.25-13.32.36:696][ 63]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-13.32.36:696][ 63]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-13.32.36:696][ 63]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-13.32.38:289][122]BlueprintLog: New page: Compile Robo
+[2019.11.25-13.32.38:513][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.25-13.32.40:789][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Robo" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Robo.uasset" SILENT=true
+[2019.11.25-13.32.40:822][205]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Robo38CA1A7F47F4941E8BDAE4A41B50A789.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Robo.uasset'
+[2019.11.25-13.32.41:554][240]LogSlate: Window 'Robo' being destroyed
+[2019.11.25-13.32.41:568][240]LogSlate: Window 'Robo' being destroyed
+[2019.11.25-13.32.41:579][240]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.32.41:661][243]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-13.32.41:723][250]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.25-13.32.44:336][391]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.25-13.32.44:384][393]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.25-13.32.44:465][393]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Tusk.Tusk
+[2019.11.25-13.32.46:320][480]LogSlate: Window 'Tusk' being destroyed
+[2019.11.25-13.32.46:340][480]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.32.46:417][480]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Tusk.Tusk
+[2019.11.25-13.32.46:708][480]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.25-13.32.48:413][600]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.25-13.32.48:470][604]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.25-13.33.03:330][903]LogTexture: Display: Building textures: T_CharM_Tusk_E (DXT1, 1024X1024)
+[2019.11.25-13.33.03:330][903]LogTexture: Display: Building textures: T_CharM_Tusk_Mask (AutoDXT, 2048X2048)
+[2019.11.25-13.33.03:330][903]LogTexture: Display: Building textures: T_CharM_Tusk_N (BC5, 1024X1024)
+[2019.11.25-13.33.03:330][903]LogTexture: Display: Building textures: T_CharM_Tusk_D (DXT1, 2048X2048)
+[2019.11.25-13.33.03:330][903]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Tusk...
+[2019.11.25-13.33.03:333][903]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Tusk.SK_CharM_Tusk
+[2019.11.25-13.33.03:336][903]LogMaterial: Display: Missing cached shader map for material M_Char_Tusk, compiling. 
+[2019.11.25-13.33.03:399][903]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.25-13.33.03:399][903]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.25-13.33.03:399][903]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.25-13.33.04:538][939]BlueprintLog: New page: Compile Tusk
+[2019.11.25-13.33.04:766][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.11.25-13.33.07:693][ 45]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2019.11.25-13.33.08:122][ 65]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.25-13.33.11:161][209]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.25-13.33.11:269][213]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.25-13.33.13:614][323]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.25-13.33.14:617][370]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.25-13.33.14:745][376]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.25-13.33.36:781][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Tusk" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Tusk.uasset" SILENT=true
+[2019.11.25-13.33.36:810][377]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Tusk5183EB8D42B090CEEC0E4780E6643EBF.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Tusk.uasset'
+[2019.11.25-13.33.38:059][437]LogSlate: Window 'Tusk' being destroyed
+[2019.11.25-13.33.38:072][437]LogSlate: Window 'Tusk' being destroyed
+[2019.11.25-13.33.38:084][437]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.33.39:979][549]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Warrior.Warrior
+[2019.11.25-13.33.42:632][692]LogSlate: Window 'Warrior' being destroyed
+[2019.11.25-13.33.42:652][692]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.33.42:716][692]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Warrior.Warrior
+[2019.11.25-13.33.50:686][ 43]BlueprintLog: New page: Compile Warrior
+[2019.11.25-13.33.50:902][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.25-13.33.58:625][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Warrior" FILE="../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Warrior.uasset" SILENT=true
+[2019.11.25-13.33.58:653][403]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Warrior3929474C4D4B537BEFBC6EA1B2C7B755.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Content/Blueprints/Characters/Warrior.uasset'
+[2019.11.25-13.33.59:421][441]LogSlate: Window 'Warrior' being destroyed
+[2019.11.25-13.33.59:428][441]LogSlate: Window 'Warrior' being destroyed
+[2019.11.25-13.33.59:441][441]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-13.34.25:044][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.11.25-13.34.25:044][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.040
+[2019.11.25-13.34.25:046][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.11.25-13.34.25:046][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.11.25-13.34.25:063][628]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/UE4_Mannequin_Skeleton_Auto13F89E15540021DBADEFB8BAE324493E7.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2019.11.25-13.34.25:065][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.11.25-13.34.25:065][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2019.11.25-13.34.25:081][628]LogSavePackage: Moving '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/SK_Mannequin_Skeleton_Auto16344377C4BD1277E2041DA9A465F80B3.tmp' to '../../../../../../Users/Hugo/Documents/Unreal Projects/KusligtSpel/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset'
+[2019.11.25-13.34.25:082][628]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.11.25-13.36.27:827][268]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{d4edc1ed-a923-499c-8d96-46e134bfdf3d} was removed. Shutting down audio device.
+[2019.11.25-13.36.32:450][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.25-13.36.32:514][268]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bd57b27f70 [can pipeline])
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 1 (Re-using existing connection! (#31) with host datarouter.ol.epicgames.com)
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.66.229) port 443 (#31))
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.11.25-13.36.42:943][300]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 7 (Closing connection 31)
+[2019.11.25-13.36.42:944][300]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.44.55:372][766]LogHttp: Warning: 000001BE144842C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.44.55:372][766]LogHttp: Warning: 000001BE144842C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.44.55:372][766]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 0 (Connection 33 seems to be dead!)
+[2019.11.25-13.44.55:372][766]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 1 (Closing connection 33)
+[2019.11.25-13.44.55:372][766]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.11.25-13.44.55:373][766]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.44.55:373][766]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 4 (Closing connection 34)
+[2019.11.25-13.44.55:373][766]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.46.56:037][126]LogHttp: Warning: 000001BE144842C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.46.56:037][126]LogHttp: Warning: 000001BE144842C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.46.56:037][126]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.46.56:037][126]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 1 (Closing connection 35)
+[2019.11.25-13.46.56:037][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.48.56:639][486]LogHttp: Warning: 000001BE144842C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.48.56:639][486]LogHttp: Warning: 000001BE144842C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.48.56:639][486]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.48.56:639][486]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 1 (Closing connection 36)
+[2019.11.25-13.48.56:639][486]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.50.57:195][846]LogHttp: Warning: 000001BE144842C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.50.57:195][846]LogHttp: Warning: 000001BE144842C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.50.57:195][846]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.50.57:195][846]LogHttp: Warning: 000001BE144842C0: libcurl info message cache 1 (Closing connection 37)
+[2019.11.25-13.50.57:196][846]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.52.26:361][111]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.25-13.52.28:722][118]LogInit: XAudio2 using 'Hörlurar (MID ANC Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.25-13.52.57:782][206]LogHttp: Warning: 000001BE14485440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.52.57:782][206]LogHttp: Warning: 000001BE14485440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.52.57:782][206]LogHttp: Warning: 000001BE14485440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.52.57:782][206]LogHttp: Warning: 000001BE14485440: libcurl info message cache 1 (Closing connection 38)
+[2019.11.25-13.52.57:782][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.54.58:428][566]LogHttp: Warning: 000001BE14485440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.54.58:429][566]LogHttp: Warning: 000001BE14485440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.54.58:429][566]LogHttp: Warning: 000001BE14485440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.54.58:429][566]LogHttp: Warning: 000001BE14485440: libcurl info message cache 1 (Closing connection 39)
+[2019.11.25-13.54.58:430][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.56.34:627][853]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{d4edc1ed-a923-499c-8d96-46e134bfdf3d} was removed. Shutting down audio device.
+[2019.11.25-13.56.34:933][853]LogInit: XAudio2 using 'Högtalare / Hörlurar (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.25-13.56.58:823][925]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.56.58:823][925]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.56.58:823][925]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.56.58:823][925]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 40)
+[2019.11.25-13.56.59:159][926]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-13.58.59:809][286]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-13.58.59:809][286]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-13.58.59:809][286]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-13.58.59:809][286]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 41)
+[2019.11.25-13.58.59:810][286]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.01.00:364][646]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.01.00:364][646]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.01.00:364][646]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.01.00:364][646]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 42)
+[2019.11.25-14.01.00:364][646]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.03.00:881][  6]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.03.00:882][  6]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.03.00:882][  6]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.03.00:882][  6]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 43)
+[2019.11.25-14.03.00:882][  6]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.05.01:427][366]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.05.01:427][366]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.05.01:427][366]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.05.01:427][366]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 44)
+[2019.11.25-14.05.01:427][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.07.01:946][726]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.07.01:946][726]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.07.01:946][726]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.07.01:946][726]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 45)
+[2019.11.25-14.07.01:946][726]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.09.02:563][ 86]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.09.02:563][ 86]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.09.02:563][ 86]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.09.02:563][ 86]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 46)
+[2019.11.25-14.09.02:563][ 86]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.11.03:212][446]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.11.03:212][446]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.11.03:212][446]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.11.03:212][446]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 47)
+[2019.11.25-14.11.03:212][446]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.13.03:573][805]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.13.03:573][805]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.13.03:573][805]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.13.03:573][805]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 48)
+[2019.11.25-14.13.03:907][806]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.15.04:572][166]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.15.04:572][166]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.15.04:572][166]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.15.04:572][166]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 49)
+[2019.11.25-14.15.04:572][166]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.17.04:910][525]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.17.04:910][525]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.17.04:911][525]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.17.04:911][525]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 50)
+[2019.11.25-14.17.05:253][526]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.19.05:886][886]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.19.05:886][886]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.19.05:886][886]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.19.05:886][886]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 51)
+[2019.11.25-14.19.05:886][886]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.25-14.21.06:264][245]LogHttp: Warning: 000001BE144847C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.25-14.21.06:264][245]LogHttp: Warning: 000001BE144847C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.25-14.21.06:264][245]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.25-14.21.06:264][245]LogHttp: Warning: 000001BE144847C0: libcurl info message cache 1 (Closing connection 52)
+[2019.11.25-14.21.06:598][246]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-08.01.03:503][ 32]LogHttp: Warning: 000001BE14484CC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.28-08.01.03:503][ 32]LogHttp: Warning: 000001BE14484CC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-08.01.03:503][ 32]LogHttp: Warning: 000001BE14484CC0: libcurl info message cache 0 (Connection 134 seems to be dead!)
+[2019.11.28-08.01.03:503][ 32]LogHttp: Warning: 000001BE14484CC0: libcurl info message cache 1 (Closing connection 134)
+[2019.11.28-08.01.03:503][ 32]LogHttp: Warning: 000001BE14484CC0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-08.01.03:503][ 32]LogHttp: Warning: 000001BE14484CC0: libcurl info message cache 3 (Closing connection 135)
+[2019.11.28-08.01.03:503][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E2D2E70-41E8-7892-CB88-CAB367502ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=258c5142473e50ab0967119bf6d1b605%7C97db17342729463095ef6719b11dcf3b%7Cdb163923-ab63-4fed-a40e-65a9dcee8329&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-08.30.01:973][893]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
